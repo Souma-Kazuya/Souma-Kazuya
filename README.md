@@ -102,4 +102,4 @@ A sample website that could be turned into a working site <br/>
 
 <a href="https://github.com/souma-kazuya">GitHub</a>
 
-<p align="center"><sub>Viper · Learning profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+<p align="center"><sub>Viper · </a></sub></p>
