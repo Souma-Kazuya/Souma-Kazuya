@@ -101,5 +101,6 @@ A sample website that could be turned into a working site <br/>
 </p>
 
 <a href="https://github.com/souma-kazuya">GitHub</a>
+<a href="https://www.linkedin.com/in/shubhankar-kulkarni-214737379/">LinkedIn</a>
 
 <p align="center"><sub>Viper · </a></sub></p>
