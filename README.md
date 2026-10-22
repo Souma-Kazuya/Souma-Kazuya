@@ -4,7 +4,7 @@
   <img src="https://www.gitskins.com/api/section/hero?username=souma-kazuya&theme=zen&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F101913840%3Fu%3D6579f06cdcbf19bb11e2632e2ad5c9e984ebeb9a%26v%3D4" alt="souma-kazuya hero visual" />
 </p>
 
-**Viper** · Frontend or full-stack engineer
+**Viper** · Frontend | full-stack engineer | GenAI Operations 
 
 ## Currently learning
 
@@ -15,12 +15,13 @@
 - HTML
 - Python
 
-📍 Based in **Sangli-Miraj-Kupwad** · 👥 **0** followers · **0** following
+📍 Based in **Sangli-Miraj-Kupwad** · 
 
 ## Tools I’m practicing
 
 - **HTML** · 92%
 - **Python** · 8%
+- **Goolang** . %
 
 ## Projects in progress
 
@@ -76,6 +77,14 @@ A sample website that could be turned into a working site <br/>
 ⭐ 0 · 🍴 0
 
 [View repository](https://github.com/Souma-Kazuya/souma-kazuya-pc-builder)
+</details>
+
+<details>
+<summary><b>souma-kazuya-AI-Sub-Project</b> · Python</summary>
+  A Boundary Analaysis QA system for Software Engineering & Quality Assuarance </br>
+  ⭐ 0 · 🍴 0
+
+  [View repository](https://github.com/Souma-Kazuya/AI-Sub-Project)
 </details>
 
 ## Progress so far
